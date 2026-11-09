@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.birdiebir.heihei",
+      "sha256_cert_fingerprints": [
+        "A7:C1:4E:71:A6:8E:A7:CB:BC:9C:84:E5:5A:CD:22:09:B9:33:CB:26:CD:75:F2:AC:C3:E0:60:A4:80:50:8C:0A"
+      ]
+    }
+  }
+]
